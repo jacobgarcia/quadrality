@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 9df8d5e63da909a4b9d84aebf97c50a1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Genius:group26
+    100004: Genius:L_Leg
+    100006: Genius:Manuel1
+    100008: Head
+    100010: Hip
+    100012: L_Foot
+    100014: L_Foot 1
+    100016: L_Foot1
+    100018: L_Knee
+    100020: L_Leg
+    100022: L_Toe
+    100024: nurbsCircle1
+    100026: nurbsCircle2
+    100028: nurbsCircle3
+    100030: pCube1
+    100032: pCube3
+    100034: pCube4
+    100036: R_Foot
+    100038: R_Knee
+    100040: R_Leg
+    100042: R_Toe
+    400000: //RootNode
+    400002: Genius:group26
+    400004: Genius:L_Leg
+    400006: Genius:Manuel1
+    400008: Head
+    400010: Hip
+    400012: L_Foot
+    400014: L_Foot 1
+    400016: L_Foot1
+    400018: L_Knee
+    400020: L_Leg
+    400022: L_Toe
+    400024: nurbsCircle1
+    400026: nurbsCircle2
+    400028: nurbsCircle3
+    400030: pCube1
+    400032: pCube3
+    400034: pCube4
+    400036: R_Foot
+    400038: R_Knee
+    400040: R_Leg
+    400042: R_Toe
+    4300000: pCube1
+    4300002: L_Foot
+    4300004: L_Foot1
+    4300006: pCube3
+    4300008: pCube4
+    7400000: Idle
+    7400002: Running
+    9500000: //RootNode
+    13700000: L_Foot
+    13700002: L_Foot1
+    13700004: pCube1
+    13700006: pCube3
+    13700008: pCube4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Genius:group26
+        weight: 1
+      - path: Genius:group26/Genius:Manuel1
+        weight: 1
+      - path: Genius:group26/Genius:Manuel1/Genius:L_Leg
+        weight: 1
+      - path: Genius:group26/Genius:Manuel1/Genius:L_Leg/L_Foot
+        weight: 1
+      - path: Genius:group26/Genius:Manuel1/Genius:L_Leg/L_Foot1
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/Head
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1/L_Toe
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot/R_Toe
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle2
+        weight: 1
+      - path: nurbsCircle3
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Running
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Genius:group26
+        weight: 1
+      - path: Genius:group26/Genius:Manuel1
+        weight: 1
+      - path: Genius:group26/Genius:Manuel1/Genius:L_Leg
+        weight: 1
+      - path: Genius:group26/Genius:Manuel1/Genius:L_Leg/L_Foot
+        weight: 1
+      - path: Genius:group26/Genius:Manuel1/Genius:L_Leg/L_Foot1
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/Head
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1/L_Toe
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot/R_Toe
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle2
+        weight: 1
+      - path: nurbsCircle3
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

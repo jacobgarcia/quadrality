@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: bf457cf1f60263a459dcf3f2e3feb933
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Body
+    100002: chest1
+    100004: group26
+    100006: head1
+    100008: Helmet
+    100010: ikHandle1
+    100012: ikHandle2
+    100014: l_elbow1
+    100016: l_foot1
+    100018: l_hand1
+    100020: l_hip1
+    100022: l_knee1
+    100024: L_Leg
+    100026: l_shoulder1
+    100028: l_toe1
+    100030: Manuel1
+    100032: neck1
+    100034: nurbsCircle1
+    100036: nurbsCircle10
+    100038: nurbsCircle11
+    100040: nurbsCircle12
+    100042: nurbsCircle2
+    100044: nurbsCircle3
+    100046: nurbsCircle4
+    100048: nurbsCircle7
+    100050: nurbsCircle8
+    100052: nurbsCircle9
+    100054: pelvis28
+    100056: polySurface1
+    100058: polySurface2
+    100060: polySurface3
+    100062: polySurface4
+    100064: polySurface5
+    100066: polySurface6
+    100068: polySurface7
+    100070: polySurface8
+    100072: polySurface9
+    100074: r_elbow1
+    100076: r_foot1
+    100078: r_hand1
+    100080: r_hip1
+    100082: r_knee1
+    100084: R_Leg
+    100086: r_shoulder1
+    100088: r_toe1
+    100090: spine1
+    100092: //RootNode
+    400000: Body
+    400002: chest1
+    400004: group26
+    400006: head1
+    400008: Helmet
+    400010: ikHandle1
+    400012: ikHandle2
+    400014: l_elbow1
+    400016: l_foot1
+    400018: l_hand1
+    400020: l_hip1
+    400022: l_knee1
+    400024: L_Leg
+    400026: l_shoulder1
+    400028: l_toe1
+    400030: Manuel1
+    400032: neck1
+    400034: nurbsCircle1
+    400036: nurbsCircle10
+    400038: nurbsCircle11
+    400040: nurbsCircle12
+    400042: nurbsCircle2
+    400044: nurbsCircle3
+    400046: nurbsCircle4
+    400048: nurbsCircle7
+    400050: nurbsCircle8
+    400052: nurbsCircle9
+    400054: pelvis28
+    400056: polySurface1
+    400058: polySurface2
+    400060: polySurface3
+    400062: polySurface4
+    400064: polySurface5
+    400066: polySurface6
+    400068: polySurface7
+    400070: polySurface8
+    400072: polySurface9
+    400074: r_elbow1
+    400076: r_foot1
+    400078: r_hand1
+    400080: r_hip1
+    400082: r_knee1
+    400084: R_Leg
+    400086: r_shoulder1
+    400088: r_toe1
+    400090: spine1
+    400092: //RootNode
+    4300000: polySurface4
+    4300002: polySurface5
+    4300004: polySurface2
+    4300006: polySurface3
+    4300008: polySurface6
+    4300010: polySurface7
+    4300012: polySurface8
+    4300014: polySurface9
+    4300016: Helmet
+    7400000: Idle
+    7400002: Run
+    7400004: Action
+    9500000: //RootNode
+    13700000: Helmet
+    13700002: polySurface2
+    13700004: polySurface3
+    13700006: polySurface4
+    13700008: polySurface5
+    13700010: polySurface6
+    13700012: polySurface7
+    13700014: polySurface8
+    13700016: polySurface9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group26
+        weight: 1
+      - path: group26/Manuel1
+        weight: 1
+      - path: group26/Manuel1/Body
+        weight: 1
+      - path: group26/Manuel1/Body/polySurface1
+        weight: 1
+      - path: group26/Manuel1/Body/polySurface1/polySurface4
+        weight: 1
+      - path: group26/Manuel1/Body/polySurface1/polySurface5
+        weight: 1
+      - path: group26/Manuel1/Body/polySurface2
+        weight: 1
+      - path: group26/Manuel1/Body/polySurface3
+        weight: 1
+      - path: group26/Manuel1/L_Leg
+        weight: 1
+      - path: group26/Manuel1/L_Leg/polySurface6
+        weight: 1
+      - path: group26/Manuel1/L_Leg/polySurface7
+        weight: 1
+      - path: group26/Manuel1/R_Leg
+        weight: 1
+      - path: group26/Manuel1/R_Leg/polySurface8
+        weight: 1
+      - path: group26/Manuel1/R_Leg/polySurface9
+        weight: 1
+      - path: Helmet
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: nurbsCircle10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8/nurbsCircle1/nurbsCircle2
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8/nurbsCircle3/nurbsCircle4
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8/nurbsCircle7
+        weight: 1
+      - path: nurbsCircle11
+        weight: 1
+      - path: nurbsCircle12
+        weight: 1
+      - path: pelvis28
+        weight: 1
+      - path: pelvis28/l_hip1
+        weight: 1
+      - path: pelvis28/l_hip1/l_knee1
+        weight: 1
+      - path: pelvis28/l_hip1/l_knee1/l_foot1
+        weight: 1
+      - path: pelvis28/l_hip1/l_knee1/l_foot1/l_toe1
+        weight: 1
+      - path: pelvis28/r_hip1
+        weight: 1
+      - path: pelvis28/r_hip1/r_knee1
+        weight: 1
+      - path: pelvis28/r_hip1/r_knee1/r_foot1
+        weight: 1
+      - path: pelvis28/r_hip1/r_knee1/r_foot1/r_toe1
+        weight: 1
+      - path: pelvis28/spine1
+        weight: 1
+      - path: pelvis28/spine1/chest1
+        weight: 1
+      - path: pelvis28/spine1/chest1/l_shoulder1
+        weight: 1
+      - path: pelvis28/spine1/chest1/l_shoulder1/l_elbow1
+        weight: 1
+      - path: pelvis28/spine1/chest1/l_shoulder1/l_elbow1/l_hand1
+        weight: 1
+      - path: pelvis28/spine1/chest1/neck1
+        weight: 1
+      - path: pelvis28/spine1/chest1/neck1/head1
+        weight: 1
+      - path: pelvis28/spine1/chest1/r_shoulder1
+        weight: 1
+      - path: pelvis28/spine1/chest1/r_shoulder1/r_elbow1
+        weight: 1
+      - path: pelvis28/spine1/chest1/r_shoulder1/r_elbow1/r_hand1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 82
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group26
+        weight: 1
+      - path: group26/Manuel1
+        weight: 1
+      - path: group26/Manuel1/Body
+        weight: 1
+      - path: group26/Manuel1/Body/polySurface1
+        weight: 1
+      - path: group26/Manuel1/Body/polySurface1/polySurface4
+        weight: 1
+      - path: group26/Manuel1/Body/polySurface1/polySurface5
+        weight: 1
+      - path: group26/Manuel1/Body/polySurface2
+        weight: 1
+      - path: group26/Manuel1/Body/polySurface3
+        weight: 1
+      - path: group26/Manuel1/L_Leg
+        weight: 1
+      - path: group26/Manuel1/L_Leg/polySurface6
+        weight: 1
+      - path: group26/Manuel1/L_Leg/polySurface7
+        weight: 1
+      - path: group26/Manuel1/R_Leg
+        weight: 1
+      - path: group26/Manuel1/R_Leg/polySurface8
+        weight: 1
+      - path: group26/Manuel1/R_Leg/polySurface9
+        weight: 1
+      - path: Helmet
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: nurbsCircle10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8/nurbsCircle1/nurbsCircle2
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8/nurbsCircle3/nurbsCircle4
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8/nurbsCircle7
+        weight: 1
+      - path: nurbsCircle11
+        weight: 1
+      - path: nurbsCircle12
+        weight: 1
+      - path: pelvis28
+        weight: 1
+      - path: pelvis28/l_hip1
+        weight: 1
+      - path: pelvis28/l_hip1/l_knee1
+        weight: 1
+      - path: pelvis28/l_hip1/l_knee1/l_foot1
+        weight: 1
+      - path: pelvis28/l_hip1/l_knee1/l_foot1/l_toe1
+        weight: 1
+      - path: pelvis28/r_hip1
+        weight: 1
+      - path: pelvis28/r_hip1/r_knee1
+        weight: 1
+      - path: pelvis28/r_hip1/r_knee1/r_foot1
+        weight: 1
+      - path: pelvis28/r_hip1/r_knee1/r_foot1/r_toe1
+        weight: 1
+      - path: pelvis28/spine1
+        weight: 1
+      - path: pelvis28/spine1/chest1
+        weight: 1
+      - path: pelvis28/spine1/chest1/l_shoulder1
+        weight: 1
+      - path: pelvis28/spine1/chest1/l_shoulder1/l_elbow1
+        weight: 1
+      - path: pelvis28/spine1/chest1/l_shoulder1/l_elbow1/l_hand1
+        weight: 1
+      - path: pelvis28/spine1/chest1/neck1
+        weight: 1
+      - path: pelvis28/spine1/chest1/neck1/head1
+        weight: 1
+      - path: pelvis28/spine1/chest1/r_shoulder1
+        weight: 1
+      - path: pelvis28/spine1/chest1/r_shoulder1/r_elbow1
+        weight: 1
+      - path: pelvis28/spine1/chest1/r_shoulder1/r_elbow1/r_hand1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Action
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group26
+        weight: 1
+      - path: group26/Manuel1
+        weight: 1
+      - path: group26/Manuel1/Body
+        weight: 1
+      - path: group26/Manuel1/Body/polySurface1
+        weight: 1
+      - path: group26/Manuel1/Body/polySurface1/polySurface4
+        weight: 1
+      - path: group26/Manuel1/Body/polySurface1/polySurface5
+        weight: 1
+      - path: group26/Manuel1/Body/polySurface2
+        weight: 1
+      - path: group26/Manuel1/Body/polySurface3
+        weight: 1
+      - path: group26/Manuel1/L_Leg
+        weight: 1
+      - path: group26/Manuel1/L_Leg/polySurface6
+        weight: 1
+      - path: group26/Manuel1/L_Leg/polySurface7
+        weight: 1
+      - path: group26/Manuel1/R_Leg
+        weight: 1
+      - path: group26/Manuel1/R_Leg/polySurface8
+        weight: 1
+      - path: group26/Manuel1/R_Leg/polySurface9
+        weight: 1
+      - path: Helmet
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: nurbsCircle10
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8/nurbsCircle1
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8/nurbsCircle1/nurbsCircle2
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8/nurbsCircle3/nurbsCircle4
+        weight: 1
+      - path: nurbsCircle10/nurbsCircle9/nurbsCircle8/nurbsCircle7
+        weight: 1
+      - path: nurbsCircle11
+        weight: 1
+      - path: nurbsCircle12
+        weight: 1
+      - path: pelvis28
+        weight: 1
+      - path: pelvis28/l_hip1
+        weight: 1
+      - path: pelvis28/l_hip1/l_knee1
+        weight: 1
+      - path: pelvis28/l_hip1/l_knee1/l_foot1
+        weight: 1
+      - path: pelvis28/l_hip1/l_knee1/l_foot1/l_toe1
+        weight: 1
+      - path: pelvis28/r_hip1
+        weight: 1
+      - path: pelvis28/r_hip1/r_knee1
+        weight: 1
+      - path: pelvis28/r_hip1/r_knee1/r_foot1
+        weight: 1
+      - path: pelvis28/r_hip1/r_knee1/r_foot1/r_toe1
+        weight: 1
+      - path: pelvis28/spine1
+        weight: 1
+      - path: pelvis28/spine1/chest1
+        weight: 1
+      - path: pelvis28/spine1/chest1/l_shoulder1
+        weight: 1
+      - path: pelvis28/spine1/chest1/l_shoulder1/l_elbow1
+        weight: 1
+      - path: pelvis28/spine1/chest1/l_shoulder1/l_elbow1/l_hand1
+        weight: 1
+      - path: pelvis28/spine1/chest1/neck1
+        weight: 1
+      - path: pelvis28/spine1/chest1/neck1/head1
+        weight: 1
+      - path: pelvis28/spine1/chest1/r_shoulder1
+        weight: 1
+      - path: pelvis28/spine1/chest1/r_shoulder1/r_elbow1
+        weight: 1
+      - path: pelvis28/spine1/chest1/r_shoulder1/r_elbow1/r_hand1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: pelvis28
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

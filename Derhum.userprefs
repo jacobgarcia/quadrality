@@ -1,0 +1,43 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\..\Desktop\Nosotros Somos Un Mismo Tesoro\Web Player v.1.0\Nosotros Somos Un Mismo Tesoro.html">
+    <Files>
+      <File FileName="Assets\SCRIPTS\Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\Scripts\CameraShake.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\Scripts\Appear.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\Scripts\HUD\DisplayController3.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\FootSteps.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\JumpingEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\Scripts\ThirdPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\Scripts\ThirdPersonCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\Scripts\ChangePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\Scripts\OpenGate.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\Scripts\HUD\DisplayController2.cs" Line="1" Column="1" />
+      <File FileName="D:\Users\FatalRaincloud\Documents\SecondClass\Assets\DestroyBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\DestroyParticles.cs" Line="1" Column="1" />
+      <File FileName="D:\Users\FatalRaincloud\Documents\SecondClass\Assets\FPSPlayer.cs" Line="1" Column="1" />
+      <File FileName="D:\Users\FatalRaincloud\Documents\SecondClass\Assets\Shoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\LoseItAll.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\RotateImage.cs" Line="1" Column="1" />
+      <File FileName="H:\Users\FatalRaincloud\Documents\FirstClass\Assets\3DPongRemastered\MiniGolf\Scripts\Rotation.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\RotateCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\RotateCameraFirst.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\Scripts\Appear1.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\Scripts\Opacity.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\InvisibleShadowCaster.shader" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\SecretLever.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\SecretColliderOne.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\SecretColliderThree.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\SecretColliderTwo.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\TransparentSprite.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\Scripts\BreakFence.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\..\Desktop\Nosotros Somos Un Mismo Tesoro\jquery.min.js" Line="4" Column="34" />
+      <File FileName="..\..\..\..\..\Desktop\Nosotros Somos Un Mismo Tesoro\Web Player v.1.0\UnityObject2.js" Line="14" Column="28" />
+      <File FileName="..\..\..\..\..\Desktop\Nosotros Somos Un Mismo Tesoro\Web Player v.1.0\Nosotros Somos Un Mismo Tesoro.html" Line="6" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

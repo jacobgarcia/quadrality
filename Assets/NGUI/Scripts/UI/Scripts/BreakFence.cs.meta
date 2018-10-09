@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 49b5e248ca89f954fa01b79eb1eb7717
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - wood1: {instanceID: 0}
+  - wood2: {instanceID: 0}
+  - wood3: {instanceID: 0}
+  - wood: {fileID: 8300000, guid: 1789e781407d39f4fb14c1eb5a60d330, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
